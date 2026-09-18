@@ -17,3 +17,7 @@
   - AllHostile
   - Wizard
   - Xenoborg
+
+# Myomass faction
+- type: npcFaction
+  id: Myomass
