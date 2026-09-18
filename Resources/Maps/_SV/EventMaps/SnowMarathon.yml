@@ -157923,7 +157923,7 @@ entities:
       parent: 60
     - type: Fixtures
       fixtures: {}
-- proto: SignRND
+- proto: SignRes
   entities:
   - uid: 7085
     components:
