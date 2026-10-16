@@ -184,6 +184,7 @@
   - type: PhysicalComposition
     materialComposition:
       Paper: 50
+      Steel: 20
   - type: StaticPrice
     price: 15
   - type: Tag
