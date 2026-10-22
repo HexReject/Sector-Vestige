@@ -20,7 +20,6 @@
     offset: 0
     table: !type:GroupSelector
       children:
-      - id: BoxFolderBaseSecure
       - id: BoxFolderSecureRed
       - id: BoxFolderSecureBlue
       - id: BoxFolderSecureYellow
